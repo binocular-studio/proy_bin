@@ -108,22 +108,22 @@ body {
 }
 
 .fa-facebook {
-  background: #3B5998;
+  background: #266E36;
   color: white;
 }
 
 .fa-twitter {
-  background: #55ACEE;
+  background: #266E36;
   color: white;
 }
 
 .fa-youtube {
-  background: #bb0000;
+  background: #266E36;
   color: white;
 }
 
 .fa-instagram {
-  background: #125688;
+  background: #266E36;
   color: white;
 }
 
@@ -131,3 +131,18 @@ body {
   background: #ff6600;
   color: white;
 }
+
+/* ESTILOS GARO
+-------------------------------------------------- */
+
+.encabezado-historia{text-align: right}
+
+.center-block {
+  max-width: 100%;
+  width: auto;
+  position: relative;
+  top: 0;
+  bottom: 0
+}
+
+
