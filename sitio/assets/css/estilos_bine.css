@@ -172,3 +172,20 @@ a:visited {
 .fa-co:visited {
     color: #266E36;
 }
+
+
+/* estilos investigacion
+-------------------------------------------------- */
+
+.titcolapso {
+    font-size: 20px;
+    text-align: center;
+    color: #266E36;
+}
+
+.titcolapso:visited {
+    color: #266E36;
+}
+
+
+}
