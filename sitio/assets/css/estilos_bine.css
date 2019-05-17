@@ -91,6 +91,10 @@ footer a {
     color: #ff6c00;
 }
 
+footer a:visited {
+    color: #ff6c00;
+}
+
 
 /* estilo carrusel
 -------------------------------------------------- */
